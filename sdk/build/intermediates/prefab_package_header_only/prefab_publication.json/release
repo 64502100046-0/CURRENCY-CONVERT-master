@@ -1,0 +1,17 @@
+{
+  "installationFolder": "C:\\Users\\narue\\Downloads\\CURRENCY-CONVERT-master28-6\\CURRENCY-CONVERT-master\\sdk\\build\\intermediates\\prefab_package\\release\\prefab",
+  "gradlePath": ":sdk",
+  "packageInfo": {
+    "packageName": "sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\narue\\Downloads\\CURRENCY-CONVERT-master28-6\\CURRENCY-CONVERT-master\\sdk\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

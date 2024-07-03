@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\narue\Downloads\CURRENCY-CONVERT-master28-6\CURRENCY-CONVERT-master\sdk\.cxx\Debug\q5v604m5\arm64-v8a'
+ninja: no work to do.
